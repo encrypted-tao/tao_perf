@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "k6": "^0.0.0"
+  },
+  "name": "tao_perf",
+  "description": "",
+  "version": "1.0.0",
+  "main": "test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encrypted-tao/tao_perf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/encrypted-tao/tao_perf/issues"
+  },
+  "homepage": "https://github.com/encrypted-tao/tao_perf#readme"
+}
